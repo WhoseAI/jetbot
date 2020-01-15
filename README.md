@@ -8,10 +8,10 @@
 
 JetBot教学平台是一个基于NVIDIA Jetson Nano的开源机器人，具备以下特色：
 
-**价格亲民** - 除了Jetson Nano之外，只要再增加800元人民币的设备即可
-**教育功能** - 提供从基本运动到基于人工智能的避撞教程
-**富有乐趣** - 通过web浏览器进行交互编程
+***价格亲民** - 除了Jetson Nano之外，只要再增加800元人民币的设备即可
+***教育功能** - 提供从基本运动到基于人工智能的避撞教程
+***富有乐趣** - 通过web浏览器进行交互编程
 
 组装和使用JetBot的过程，能为您提供创建全新人工智能项目所需的实践经验。
 
-准备开始启动！从[**JetBot Wiki**](https://github.com/whoseai/jetbot-cn/wiki)出发！
+准备开始启动！从[*JetBot Wiki*](https://github.com/whoseai/jetbot-cn/wiki)出发！
