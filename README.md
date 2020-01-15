@@ -4,7 +4,7 @@
 
 > 您正在寻找快速启动Jetbot的方法吗？很多第三方的套件可以在[这里（第三方套件）](../../wiki/第三方套件)找到!
 
-<img src="https://github.com/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
+<img src="http://bbs.gpuworld.cn/resources/Git/jetson-jetbot-illustration_1600x1260.png" height="256">
 
 JetBot教学平台是一个基于NVIDIA Jetson Nano的开源机器人，具备以下特色：
 
