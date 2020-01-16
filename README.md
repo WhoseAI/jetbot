@@ -1,4 +1,4 @@
-# JetBot中文站（Noetbook的注释也中文化）
+# JetBot中文站（Noetbook里的代码注释也中文化）
 
 <!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
